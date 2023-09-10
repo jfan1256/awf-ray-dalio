@@ -1,4 +1,3 @@
-# Base-Portfolio-Mimicing-Ray-Dalio-All-Weather-Portfolio
 ### Introduction
 Ray Dalio All Weather Portfolio's (AWP) main purpose is to perform well in any economic environment: inflation vs. deflation, economic growth vs. economic stagnation, or best of times vs. worst of times. To do this, AWP utilizes various trends to determine when to invest and how much to invest. For example, during periods of rising prices, gold and commodities tend to do well; during periods of falling prices, bonds tend to do well. The four main economic environments (inflation, deflation, rising growth, and falling growth) serve as the core ideas for which AWP follows while investing. 
 
